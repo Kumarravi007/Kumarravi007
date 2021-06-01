@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm RaviShankar :wave: 
 
-<!--
-**Kumarravi007/Kumarravi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've lived in the Pune and have worked in tech for about 4 years now.
+- 🔭 I’m _currently_ working on **Jest** and **Cypress**.
+- 🌱 I’d love to learn more about **Automation Framework**.
+- 👯 I’m looking to collaborate on Quality Assurance.
+- 🤔 I’m looking for help with programming.
+- 💬 Ask me about working in tech,learning new things and exploring latest gadgets.
+- 📫 How to reach me: By [Email](ravishankar.unipune@gmail.com), [Linkedin](https://www.linkedin.com/in/ravi-shankar-kumar/), or [Twitter](https://twitter.com/Kumarravicctech)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I would like to ride cycle all over the world.
+- ![Cycle ride from Pune to Lonavala](https://user-images.githubusercontent.com/63152994/120316401-0025f700-c2fb-11eb-9e11-cda86c394673.jpg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
