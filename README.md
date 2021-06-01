@@ -9,6 +9,7 @@ I've lived in the Pune and have worked in tech for about 4 years now.
 - 📫 How to reach me: By [Email](ravishankar.unipune@gmail.com), [Linkedin](https://www.linkedin.com/in/ravi-shankar-kumar/), or [Twitter](https://twitter.com/Kumarravicctech)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I would like to ride cycle all over the world.
-- ![Cycle ride from Pune to Lonavala](https://user-images.githubusercontent.com/63152994/120316401-0025f700-c2fb-11eb-9e11-cda86c394673.jpg)
+
+  ![Pune to Lonavala](https://user-images.githubusercontent.com/63152994/120317143-e5a04d80-c2fb-11eb-862c-d616704cfd5b.jpg)
 
 -->
