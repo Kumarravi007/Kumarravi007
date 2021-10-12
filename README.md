@@ -1,7 +1,7 @@
 # Hi there, I'm RaviShankar :wave: 
 
 I've lived in the Pune and have worked in tech for about 4 years now.
-- 🔭 I’m _currently_ working on **Revit Plugin ** and **Dynamo Script**.
+- 🔭 I’m _currently_ working on **Revit Plugin** and **Dynamo Script**.
 - 🌱 I’d love to learn more about **Dynamo & Revit API**.
 - 👯 I’m looking to collaborate on Quality Assurance and Revit plugin development.
 - 🤔 I’m looking for help with programming.
